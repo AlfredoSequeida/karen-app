@@ -3,9 +3,11 @@ Click [here](https://www.youtube.com/watch?v=VPdPOVL8c1Q&list=PL9gEr35J45czlRLHX
 ![Karen](https://alfredo.lol/static/karen/img/karen_small.png)
 ### open source voice assistant
 
-![installing addon demo](https://imgur.com/z7ZH9ZK.gif)
+![installing add-on demo](https://imgur.com/z7ZH9ZK.gif)
 
 This is the cross-platform app built using [React Native](https://reactnative.dev/) for [Karen](https://github.com/AlfredoSequeida/karen) - and open-source voice assistant. The purpose of the app is to facilitate installing and configuring [Karen addons](https://alfredo.lol/karen/).
+
+![configuring add-on demo](https://imgur.com/RyA9lu1.gif)
 
 ## Build instructions
 Since the Karen app has not been deployed to an app store to run the app, you have to build it.
