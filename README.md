@@ -3,6 +3,8 @@ Click [here](https://www.youtube.com/watch?v=VPdPOVL8c1Q&list=PL9gEr35J45czlRLHX
 ![Karen](https://alfredo.lol/static/karen/img/karen_small.png)
 ### open source voice assistant
 
+![installing addon demo](https://imgur.com/z7ZH9ZK.gif)
+
 This is the cross-platform app built using [React Native](https://reactnative.dev/) for [Karen](https://github.com/AlfredoSequeida/karen) - and open-source voice assistant. The purpose of the app is to facilitate installing and configuring [Karen addons](https://alfredo.lol/karen/).
 
 ## Build instructions
